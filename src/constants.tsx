@@ -27,6 +27,12 @@ export const PROJECTS = [
     description: "A Gui version of the Fuzzing Framework.",
     link: "https://github.com/shashwatttttt/fuff-gui",
     tags: ["Python", "Wasm", "WebGL"]
+  },
+  {
+    title: "Zentry - New Gaming Era",
+    description: "Zentry is a responsive web interface inspired by Game’s product pages, built to showcase UI/UX design skill and frontend engineering..",
+    link: "https://zentry-mocha-psi.vercel.app/",
+    tags: ["GSAP", "React", "Vite"]
   }
 ];
 
