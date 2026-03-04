@@ -5,7 +5,7 @@ export const INTRO = {
   name: "Shashwat Tiwari",
   role: "Software Engineer & Security Researcher",
   bio: "tl;dr: Learned by exploring, breaking, and rebuilding things online.\n\nI’m fascinated by technology, security, and how complex systems really work. I build software, experiment with side projects, and focus on learning through hands-on work rather than theory alone.\n\nI’m driven by curiosity and long-term impact, not quick wins.",
-  avatar: "/public/logo.png",
+  avatar: "/logo.png",
   birthDate: "2002-02-06T00:00:00" 
 };
 
