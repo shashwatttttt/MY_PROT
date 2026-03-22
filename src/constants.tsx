@@ -19,7 +19,7 @@ export const PROJECTS = [
   {
     title: "Red-Team Toolkit",
     description: "A modern guide to red teaming for cybersecurity professionals.",
-    link: "https://github.com/shashwatttttt/red-team-toolkit",
+    link: "https://github.com/shashwatttttt/Red-team-ToolKit-",
     tags: ["Reference", "Tools", "Markdown"]
   },
   {
